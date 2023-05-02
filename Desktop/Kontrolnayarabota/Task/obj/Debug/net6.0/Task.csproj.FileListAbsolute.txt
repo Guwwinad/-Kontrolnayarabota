@@ -1,0 +1,15 @@
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/bin/Debug/net6.0/Task
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/bin/Debug/net6.0/Task.deps.json
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/bin/Debug/net6.0/Task.dll
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/bin/Debug/net6.0/Task.pdb
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/obj/Debug/net6.0/Task.dll
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/obj/Debug/net6.0/Task.pdb
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/daryakachalkova/Desktop/Kontrolnayarabota/Task/obj/Debug/net6.0/ref/Task.dll
